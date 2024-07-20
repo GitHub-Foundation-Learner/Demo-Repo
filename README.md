@@ -1,3 +1,3 @@
 # Demo-Repo
 
-This Repo is for demo purpose.
+This Repo is for practcing github.
